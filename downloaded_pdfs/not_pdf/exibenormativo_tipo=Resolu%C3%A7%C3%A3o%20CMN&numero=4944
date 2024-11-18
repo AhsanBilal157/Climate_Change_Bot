@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html lang="pt-br">
+
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta charset="utf-8">
+
+	<!-- diz ao servidor que futuras conexoes ira usar -->
+	<link rel="preconnect" href="https://cdn-www.bcb.gov.br" crossorigin="">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+	<link rel="preconnect" href="https://www.google-analytics.com" crossorigin="">
+
+	<base href="/">
+
+	<title>Banco Central do Brasil</title>
+
+	<meta name="description" content="Banco Central do Brasil">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow"/>
+	<meta name="AdsBot-Google" content="noindex"/>
+	<meta name="theme-color" content="#025c75"/>
+	<meta name="google-site-verification" content="HrSauVp28E-CmIunToYrF1-gaMfDbWESxMFUDXFMqPA"/>
+
+	<link rel="alternate" hreflang="en" href="https://www.bcb.gov.br/en">
+	<link rel="icon" type="image/x-icon" href="https://cdn-www.bcb.gov.br/favicon.ico">
+
+	<!-- css -->
+	<link rel="preload" href="https://cdn-www.bcb.gov.br/assets/fonts/material-icons/MaterialIcons-Regular.woff2" as="font" type="font/woff2" crossorigin="">
+	<link rel="preload" href="https://cdn-www.bcb.gov.br/assets/fonts/material-icons/MaterialIconsOutlined-Regular.woff2" as="font" type="font/woff2" crossorigin="">
+
+<link rel="stylesheet" href="https://cdn-www.bcb.gov.br/styles.543195c739d014b90d31.css"></head>
+
+<body>
+	<noscript>Essa pagina depende do javascript para abrir, favor habilitar o javascript do seu browser!</noscript>
+	<app-root></app-root>
+	<script src="https://www.googletagmanager.com/gtag/js?id=G-TPS4R7DC1S" async=""></script>
+<script src="https://cdn-www.bcb.gov.br/runtime.c0b112f38e85e98b2af3.js" defer></script><script src="https://cdn-www.bcb.gov.br/polyfills-es5.126d89f65eb71e12d265.js" nomodule defer></script><script src="https://cdn-www.bcb.gov.br/polyfills.2463384272b1e48943ee.js" defer></script><script src="https://cdn-www.bcb.gov.br/scripts.9d262d839cd54c572c5a.js" defer></script><script src="https://cdn-www.bcb.gov.br/main.a54172c4fe3822c77163.js" defer></script></body>
+
+</html>
