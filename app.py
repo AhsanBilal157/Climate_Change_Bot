@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from langchain.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.document_loaders import PyPDFDirectoryLoader
 from langchain.embeddings import OllamaEmbeddings
