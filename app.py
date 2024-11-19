@@ -14,6 +14,9 @@ from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmb
 from dotenv import load_dotenv
 load_dotenv()
 # Load the Google API key from .env
+# __import__('pysqlite3')
+# import sys
+# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 GOOGLE_API_KEY = os.getenv("GEMINI_API_KEY")
 
 # Directory for Chroma persistence
