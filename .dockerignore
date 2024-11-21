@@ -1,0 +1,9 @@
+.git
+.gitignore
+Dockerfile
+.dockerignore
+venv
+venv_name
+chatbot_making.ipynb
+Untitled.ipynb
+firstlakh_dataset_subset.xlsx
