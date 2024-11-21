@@ -17,7 +17,7 @@ load_dotenv()
 # __import__('pysqlite3')
 # import sys
 # sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-GOOGLE_API_KEY = os.getenv("GEMINI_API_KEY")
+GOOGLE_API_KEY = "AIzaSyCZ6wEg_BVtrkwD3hpjaM3nhbb0aIJg7yA"
 
 # Directory for Chroma persistence
 PERSISTENT_DIR = "chroma_db"
