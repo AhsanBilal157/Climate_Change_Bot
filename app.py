@@ -17,7 +17,7 @@ load_dotenv()
 # __import__('pysqlite3')
 # import sys
 # sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-GOOGLE_API_KEY = "AIzaSyCZ6wEg_BVtrkwD3hpjaM3nhbb0aIJg7yA"
+GOOGLE_API_KEY = "AIzaSyBB_leK4w5Dmg8zhZunQ3Z-PTF2gAo7xvk"
 
 # Directory for Chroma persistence
 PERSISTENT_DIR = "chroma_db"
